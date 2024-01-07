@@ -110,3 +110,9 @@
   .sect_1_div button:hover {
     background-color: var(--hover-color);
   }
+
+.rooting{--title-font: "Poppins", sans-serif;
+  --font: "Poppins", sans-serif;
+  --text-color: #020202;
+  --bottom-color: #2590F4;
+  --hover-color: #1b77ce;}
